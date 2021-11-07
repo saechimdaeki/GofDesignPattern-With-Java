@@ -1,6 +1,8 @@
 package com.example.gofdesignpatternwithjava._01_creational_patterns._01_Singleton;
 
-public class Settings {
+import java.io.Serializable;
+
+public class Settings implements Serializable {
 
 //    private static Settings instance;    //아래의 1에 사용하는 변수
 //    private static final Settings INSTANCE = new Settings(); // 2에 사용되는 변수
@@ -62,5 +64,9 @@ public class Settings {
      */
     public static Settings getInstance(){
         return SettingsHolder.INSTANCE;
+    }
+
+    protected Object readResolve(){
+        return getInstance();
     }
 }
