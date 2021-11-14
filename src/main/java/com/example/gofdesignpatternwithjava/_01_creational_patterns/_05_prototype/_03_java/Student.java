@@ -8,5 +8,5 @@ import lombok.ToString;
 public class Student {
 
     String name;
-    
+
 }
