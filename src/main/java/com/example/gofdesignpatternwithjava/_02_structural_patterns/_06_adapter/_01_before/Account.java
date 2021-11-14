@@ -1,4 +1,4 @@
-package com.example.gofdesignpatternwithjava._02_structural_patterns._01_before;
+package com.example.gofdesignpatternwithjava._02_structural_patterns._06_adapter._01_before;
 
 import lombok.Getter;
 import lombok.Setter;

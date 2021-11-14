@@ -1,6 +1,6 @@
-package com.example.gofdesignpatternwithjava._02_structural_patterns._02_after;
+package com.example.gofdesignpatternwithjava._02_structural_patterns._06_adapter._02_after;
 
-import com.example.gofdesignpatternwithjava._02_structural_patterns._02_after.security.UserDetails;
+import com.example.gofdesignpatternwithjava._02_structural_patterns._06_adapter._02_after.security.UserDetails;
 
 // Adapter class
 public class AccountUserDetails implements UserDetails {

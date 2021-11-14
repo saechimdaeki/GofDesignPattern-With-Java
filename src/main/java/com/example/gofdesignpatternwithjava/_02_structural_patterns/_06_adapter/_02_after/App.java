@@ -1,7 +1,7 @@
-package com.example.gofdesignpatternwithjava._02_structural_patterns._02_after;
+package com.example.gofdesignpatternwithjava._02_structural_patterns._06_adapter._02_after;
 
-import com.example.gofdesignpatternwithjava._02_structural_patterns._02_after.security.LoginHandler;
-import com.example.gofdesignpatternwithjava._02_structural_patterns._02_after.security.UserDetailsService;
+import com.example.gofdesignpatternwithjava._02_structural_patterns._06_adapter._02_after.security.LoginHandler;
+import com.example.gofdesignpatternwithjava._02_structural_patterns._06_adapter._02_after.security.UserDetailsService;
 
 public class App {
     public static void main(String[] args) {

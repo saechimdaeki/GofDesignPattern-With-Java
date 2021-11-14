@@ -1,4 +1,4 @@
-package com.example.gofdesignpatternwithjava._02_structural_patterns._03_java;
+package com.example.gofdesignpatternwithjava._02_structural_patterns._06_adapter._03_java;
 
 import org.springframework.web.servlet.DispatcherServlet;
 import org.springframework.web.servlet.HandlerAdapter;

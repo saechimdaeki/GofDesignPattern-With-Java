@@ -1,4 +1,4 @@
-package com.example.gofdesignpatternwithjava._02_structural_patterns._02_after.security;
+package com.example.gofdesignpatternwithjava._02_structural_patterns._06_adapter._01_before.security;
 
 public class LoginHandler {
 

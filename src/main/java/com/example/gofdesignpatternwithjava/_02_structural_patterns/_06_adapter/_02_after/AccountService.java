@@ -1,4 +1,4 @@
-package com.example.gofdesignpatternwithjava._02_structural_patterns._01_before;
+package com.example.gofdesignpatternwithjava._02_structural_patterns._06_adapter._02_after;
 
 public class AccountService {
     public Account findAccountByUsername(String username) {
