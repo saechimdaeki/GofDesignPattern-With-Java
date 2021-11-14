@@ -18,7 +18,9 @@
 
 ## [구조 관련 디자인 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/tree/main/%EA%B5%AC%EC%A1%B0%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4)
 
-- #### [어댑터 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%EA%B5%AC%EC%A1%B0%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%96%B4%EB%8C%91%ED%84%B0%20%ED%8C%A8%ED%84%B4.md)
+- ### [어댑터 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%EA%B5%AC%EC%A1%B0%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%96%B4%EB%8C%91%ED%84%B0%20%ED%8C%A8%ED%84%B4.md)
+
+- ### [브릿지 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%EA%B5%AC%EC%A1%B0%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EB%B8%8C%EB%A6%BF%EC%A7%80%20%ED%8C%A8%ED%84%B4.md)
 
 
 
