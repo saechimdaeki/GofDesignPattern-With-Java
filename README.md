@@ -28,6 +28,10 @@
 
 - ### [퍼사드 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%EA%B5%AC%EC%A1%B0%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%ED%8D%BC%EC%82%AC%EB%93%9C%20%ED%8C%A8%ED%84%B4.md)
 
+- ### [플라이웨이트 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%EA%B5%AC%EC%A1%B0%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%ED%94%8C%EB%9D%BC%EC%9D%B4%EC%9B%A8%EC%9D%B4%ED%8A%B8%20%ED%8C%A8%ED%84%B4.md)
+
+- ### [프록시 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%EA%B5%AC%EC%A1%B0%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%ED%94%84%EB%A1%9D%EC%8B%9C%20%ED%8C%A8%ED%84%B4.md)
+
 
 
 
