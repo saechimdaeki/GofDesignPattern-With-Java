@@ -39,3 +39,6 @@
 ## [행동 관련 디자인 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/tree/main/%ED%96%89%EB%8F%99%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4)
 
 - ### [책임 연쇄 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%ED%96%89%EB%8F%99%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%B1%85%EC%9E%84%20%EC%97%B0%EC%87%84%20%ED%8C%A8%ED%84%B4.md)
+
+- ### [커맨드 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%ED%96%89%EB%8F%99%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%BB%A4%EB%A7%A8%EB%93%9C%20%ED%8C%A8%ED%84%B4.md)
+
