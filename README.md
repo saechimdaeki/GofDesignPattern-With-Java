@@ -52,4 +52,9 @@
 
 - ### [옵저버 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%ED%96%89%EB%8F%99%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4.md)
 
-- 
+- ### [상태 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%ED%96%89%EB%8F%99%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%83%81%ED%83%9C%20%ED%8C%A8%ED%84%B4.md)
+
+- ### [전략 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%ED%96%89%EB%8F%99%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%A0%84%EB%9E%B5%20%ED%8C%A8%ED%84%B4.md)
+
+- ### [템플릿 메소드, 콜백 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%ED%96%89%EB%8F%99%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%ED%85%9C%ED%94%8C%EB%A6%BF%20%EB%A9%94%EC%86%8C%EB%93%9C%20%ED%8C%A8%ED%84%B4.md)
+
