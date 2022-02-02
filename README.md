@@ -48,7 +48,7 @@
 
 - ### [중재자 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%ED%96%89%EB%8F%99%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%A4%91%EC%9E%AC%EC%9E%90%20%ED%8C%A8%ED%84%B4.md)
 
-- ### [메멘토 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%ED%96%89%EB%8F%99%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%A4%91%EC%9E%AC%EC%9E%90%20%ED%8C%A8%ED%84%B4.md)
+- ### [메멘토 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%ED%96%89%EB%8F%99%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EB%A9%94%EB%A9%98%ED%86%A0%20%ED%8C%A8%ED%84%B4.md)
 
 - ### [옵저버 패턴](https://github.com/saechimdaeki/GofDesignPattern-With-Java/blob/main/%ED%96%89%EB%8F%99%20%EA%B4%80%EB%A0%A8%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4.md)
 
